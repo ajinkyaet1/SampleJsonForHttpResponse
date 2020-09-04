@@ -1,8 +1,20 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+   {
+  "id": "6b208e7c-98cd-4607-99c2-b15ced859496-d794dba9",
+  "fulfillmentText": "",
+  "language_code": "en",
+  "queryText": "you are amazing",
+  "webhookPayload": {},
+  "intentDetectionConfidence": 1,
+  "action": "smalltalk.agent.good",
+  "webhookSource": "",
+  "intent": {
+    "isFallback": false,
+    "displayName": "smalltalk.agent.good",
+    "id": "0e8c9f20-3740-49e4-a000-b37a1f8837f5"
+  }
+}
   ],
  
   "profile": {
