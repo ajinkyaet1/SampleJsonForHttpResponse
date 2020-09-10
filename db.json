@@ -1,14 +1,14 @@
 {
   "posts1": {
-  "fulfillmentMessages": [
+ "fulfillmentMessages": [
       {
         "text": {
           "text": [
-            "Good day!"
+            "Hello!"
           ]
         }
       }
-    ]
+    ],
   }
  
 }
