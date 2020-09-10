@@ -1,6 +1,17 @@
 {
   "posts1": {
-  "fulfillmentMessages": "this is me from webhook"
+  "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Good day!"
+          ]
+        }
+      }
+    ]
   }
  
 }
+
+
+
